@@ -1,4 +1,4 @@
-## Hi there 👋
+This profile file is not finished yet. It will be updated in future.
 
 <!--
 **AngerRandom/AngerRandom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
